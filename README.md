@@ -2,6 +2,8 @@
 
 ## 概要
 
+alt-ime-ahkをいじるためにforkしたもの
+
 左右 Alt キーの空打ちで IME を OFF/ON する AutoHotKey スクリプトです。
 
 * 左 Alt キーの空打ちで IME を「英数」に切り替え
